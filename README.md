@@ -14,4 +14,4 @@ The **parse_chrome.py** file is set to get unknown english words and it's chines
  
  For a example, the final image is as follows:
  
- ![](file:///words.png)
+ ![result image](words.png)
