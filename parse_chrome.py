@@ -274,8 +274,8 @@ class Test:
 
 
 def run():
-	# chrome = Chrome()
-	# chrome.saveTxt()
+	chrome = Chrome()
+	chrome.saveTxt()
 	work = Work()
 	work.txt2img()
 
