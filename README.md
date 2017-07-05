@@ -13,6 +13,7 @@ The **parse_chrome.py** file is set to get unknown english words and it's chines
  5. Change unknown words and it's translated results into an image
  
  ##How to use
+ 
 In the command line, input:
 
 ``python parse_chrome.py``
