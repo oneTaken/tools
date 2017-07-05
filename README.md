@@ -22,7 +22,7 @@ In the command line, input:
 
 ``python parse_chrome.py``
 
- For a example, the final image is as follows:
+ For an example, the final image is as follows:
  
  ![result image](words.png)
  
