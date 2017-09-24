@@ -1,0 +1,109 @@
+D:\project\imgLabeling\urls\url_0.txt
+gif	3432
+jpg	11
+total:	3444
+D:\project\imgLabeling\urls\url_1.txt
+gif	6591
+jpg	14105
+total:	20697
+D:\project\imgLabeling\urls\url_10.txt
+gif	8190
+jpg	22633
+png	82
+total:	30906
+D:\project\imgLabeling\urls\url_11.txt
+gif	9470
+jpg	25641
+png	434
+total:	35546
+D:\project\imgLabeling\urls\url_12.txt
+gif	9665
+jpg	26791
+png	434
+total:	36891
+D:\project\imgLabeling\urls\url_13.txt
+gif	14111
+jpg	51529
+png	776
+total:	66417
+D:\project\imgLabeling\urls\url_14.txt
+gif	22769
+jpg	86383
+png	998
+total:	110151
+D:\project\imgLabeling\urls\url_15.txt
+gif	24875
+jpg	96805
+png	998
+total:	122679
+D:\project\imgLabeling\urls\url_16.txt
+gif	26036
+jpg	100990
+png	1241
+jpeg	216
+total:	128484
+D:\project\imgLabeling\urls\url_17.txt
+gif	30014
+jpg	117820
+png	2159
+jpeg	522
+total:	150516
+D:\project\imgLabeling\urls\url_18.txt
+gif	38477
+jpg	153842
+png	2159
+jpeg	522
+total:	195001
+D:\project\imgLabeling\urls\url_19.txt
+gif	41519
+jpg	167414
+png	2315
+jpeg	522
+total:	211771
+D:\project\imgLabeling\urls\url_2.txt
+gif	45068
+jpg	182793
+png	2315
+jpeg	522
+total:	230699
+D:\project\imgLabeling\urls\url_20.txt
+gif	45818
+jpg	184473
+png	2345
+jpeg	532
+com/b79abc8f6ce372e035931300361629c30ded647c20e0c-rX2z8a_fw658	10
+total:	233179
+D:\project\imgLabeling\urls\url_21.txt
+gif	53657
+jpg	223668
+png	2345
+jpeg	733
+com/b79abc8f6ce372e035931300361629c30ded647c20e0c-rX2z8a_fw658	10
+total:	280414
+D:\project\imgLabeling\urls\url_3.txt
+gif	36761
+jpg	177851
+png	2159
+jpeg	522
+total:	217294
+D:\project\imgLabeling\urls\url_4.txt
+gif	39101
+jpg	186971
+png	2159
+jpeg	522
+src	840
+total:	229594
+D:\project\imgLabeling\urls\url_5.txt
+gif	67064
+jpg	326069
+png	2159
+jpeg	522
+src	840
+total:	396655
+D:\project\imgLabeling\urls\url_6.txt
+gif	73382
+jpg	354581
+png	2969
+jpeg	522
+src	840
+total:	432295

@@ -1,0 +1,22 @@
+D:\project\imgLabeling\urls_updated\url_0.txt	9367	9366    done
+D:\project\imgLabeling\urls_updated\url_1.txt	4450	4450    done
+D:\project\imgLabeling\urls_updated\url_10.txt	1356	1356    done
+D:\project\imgLabeling\urls_updated\url_11.txt	342	342         done
+D:\project\imgLabeling\urls_updated\url_12.txt	8769	8769    done
+D:\project\imgLabeling\urls_updated\url_13.txt	3224	3224    done
+D:\project\imgLabeling\urls_updated\url_14.txt	7436	7436    2554
+D:\project\imgLabeling\urls_updated\url_15.txt	8070	8070
+D:\project\imgLabeling\urls_updated\url_16.txt	3061	3061
+D:\project\imgLabeling\urls_updated\url_17.txt	3824	3824    1000
+D:\project\imgLabeling\urls_updated\url_18.txt	1887	1886    done
+D:\project\imgLabeling\urls_updated\url_19.txt	28487	28466    6724
+D:\project\imgLabeling\urls_updated\url_2.txt	1160	1005    done
+D:\project\imgLabeling\urls_updated\url_20.txt	6565	6565    done
+D:\project\imgLabeling\urls_updated\url_21.txt	7122	7122    272
+D:\project\imgLabeling\urls_updated\url_3.txt	8852	8852
+D:\project\imgLabeling\urls_updated\url_4.txt	2099	2099
+D:\project\imgLabeling\urls_updated\url_5.txt	9112	9111
+D:\project\imgLabeling\urls_updated\url_6.txt	2694	2694    done
+D:\project\imgLabeling\urls_updated\url_7.txt	3337	3337    done
+D:\project\imgLabeling\urls_updated\url_8.txt	3740	3740    475
+D:\project\imgLabeling\urls_updated\url_9.txt	4206	4127    56
